@@ -278,6 +278,14 @@ body {
         justify-content: space-around;
     }
 
+    .left_side {
+        padding: 140px 180px 0px ;
+    }
+    
+    .right_side {
+        padding: 10px 140px ;
+    }
+
     .title {
         padding-top: 30px;
     }
@@ -297,7 +305,7 @@ body {
 
     .footer {
         display: grid;
-        padding: 0 80px;
+        padding: 0px 80px;
     }
 
     .bottom_nav {
